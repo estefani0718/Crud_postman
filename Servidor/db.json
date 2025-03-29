@@ -20,7 +20,7 @@
     "age": 4 
   },
   {
-      "id": 4, 
+     "id": 4, 
       "name": "Luna",
       "species": "gato",
       "breed": "Siames", 
@@ -48,7 +48,7 @@
       "phone": "577868699"
    }
   ],
-  "favorite_foods": [
+  "favoriteFoods": [
 
   { "animalId": 1 ,
      "id": 2,
